@@ -19,7 +19,7 @@
     </tr>
     <tr>
         <td align="center" colspan="2">
-            <img src="http://img.10fastfingers.com/badge/typing-test_1_DN.png">
+            <img src="http://img.10fastfingers.com/badge/typing-test_1_DS.png">
             <img src="https://data.typeracer.com/misc/badge?user=elendil7">
         </td>
     </tr>
